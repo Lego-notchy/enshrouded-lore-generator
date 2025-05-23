@@ -1,7 +1,5 @@
 # enshrouded-lore-generator
-Generate unique character backstories for Enshrouded! This Python / Tkinter app analyzes your server's JSON settings to create personalized lore leading up to the Shroud event, with a few hidden fates to uncover.
-
-# This tool is a Python and Tkinter application that reads your `enshrouded_server.json` file and generates a compelling narrative for your Flameborn character, leading up to the moment they were sealed in their cryo pod.
+Generate unique character backstories for Enshrouded! This app creates personalized lore leading up to the Shroud event, with a few hidden fates to uncover.  This tool is a Python and Tkinter application that reads your `enshrouded_server.json` file.
 
 **Will your tale be one of an ordinary citizen caught in the chaos, a hardened survivor from a brutal land, or perhaps something far more ... peculiar?**
 
